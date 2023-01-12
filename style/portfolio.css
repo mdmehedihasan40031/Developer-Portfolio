@@ -29,12 +29,12 @@
 nav{
     display: flex;
     justify-content:space-between;
-    margin:50px 200px;
+    padding:50px 200px;
 }
 
 nav li{
     list-style-type:none;
-    padding: 30px;
+    margin: 30px;
 }
 
 nav ul {
@@ -185,4 +185,7 @@ color: #757575;
     border: 0;
     padding: 18px 30px;
     
+}
+a{
+    text-decoration: none;
 }
